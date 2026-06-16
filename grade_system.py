@@ -16,7 +16,7 @@ def grade(marks):
             else:
                 print("Your grade is: 'F'")
     except ValueError:
-        print("Invalid input. Please enter a number between 0 and 100.")
+        print("Invalid input. Please enter the marks between 0 and 100.")
 
 marks = input("Enter your marks: ")
 grade(marks)
