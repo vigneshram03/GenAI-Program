@@ -1,0 +1,20 @@
+("Q: How do I reset my account password?",
+"A: To reset your password, visit the Acme Single Sign-On (SSO) portal at login.acme.com, click on 'Forgot Password', and follow the prompts. A reset link will be sent to your registered corporate email address. Links expire after 15 minutes for security purposes."),
+        
+("Q: When is the monthly payroll and salary cut-off date?",
+ "A: Salary disbursements occur on the 25th of each calendar month. If the 25th falls on a weekend or public holiday, payments are processed on the preceding business day. The monthly cut-off date for submitting timesheets, overtime claims, and expense reports is strictly the 12th of each month."),
+
+("Q: What is the corporate policy on remote and hybrid work?",
+ "A: Acme Corp operates on a hybrid model requiring full-time employees to spend a minimum of two core days per week (Tuesday and Thursday) in their designated local office. Mondays, Wednesdays, and Fridays may be worked remotely with prior approval from your line manager."),
+
+("Q: How can I request annual leave or sick time?",
+ "A: All time-off requests must be submitted digitally via the HR portal (hr.acme.com). Annual leave requires at least two weeks' advance notice and manager approval. Sick leave should be logged by 9:00 AM on the day of absence, and a medical certificate is mandatory for absences exceeding three consecutive days."),
+
+("Q: What health and wellness benefits are provided?",
+ "A: Employees receive comprehensive medical, dental, and vision insurance starting on their first day of employment. We also offer a wellness stipend of up to $50 per month, which can be claimed against gym memberships, fitness equipment, or mental health applications through the expense portal."),
+
+("Q: Who do I contact for IT hardware issues or replacements?",
+ "A: For hardware malfunctions, broken screens, or upgrade requests, please open a ticket on the IT Service Desk portal (ithelp.acme.com) or visit the IT Support Bar on the 4th floor between 9:00 AM and 5:00 PM. Loaner laptops are available while your primary machine is being serviced."),
+
+("Q: What is the standard procedure for claiming business expenses?",
+ "A: Eligible business expenses—such as client dinners, authorized travel, and project software—must be submitted via the Expensify app. All claims must include itemized receipts and a valid project billing code. Submissions must be finalized within 30 days of the transaction date to be eligible for reimbursement.")
