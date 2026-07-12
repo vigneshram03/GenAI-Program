@@ -58,7 +58,7 @@ Follow these precise steps to spin up the support engine environment on your loc
 
 ```bash
 
-git clone <your-github-repo-link>
+git clone https://github.com/vigneshram03/GenAI-Program/tree/main/Week%204/Customer%20Support%20Agent
 
-cd buildathon-support-crew
+cd Customer Support Agent
 
